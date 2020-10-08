@@ -1,2 +1,2 @@
-# Vower-
+# Vower
 A Blockchain Voting Solution 
